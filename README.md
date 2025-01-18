@@ -1,4 +1,6 @@
 # hand-controlled-painter
+What does this project do?
+this is a hand gesture controlled painter using this you guys can draw anything on the screen just using your index finger and webcam no need for any touch screen just in air you can do so.
 Controls :
 1. C to clear the screen.
 2. p to pause the drawing p to start through,( create a straight line from the stopped point to the start point )
